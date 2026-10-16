@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard that explores customer reviews of British Airways from 2016 to 2023. It lets you see how passengers rate the airline overall and across specific parts of the experience, and how those ratings change by time, place, aircraft, and type of traveller.
 
-![Dashboard overview](images/dash.png)
+![Dashboard overview](dash.png)
 
 ## Questions the dashboard answers
 
@@ -33,13 +33,13 @@ A line chart that tracks the selected metric over time, so you can spot trends a
 
 ### Average rating by country
 
-![Rating by country map](images/map.png)
+![Rating by country map](map.png)
 
 A choropleth map where darker green means a higher average rating. Countries with no reviews are left blank.
 
 ### Average rating by aircraft
 
-![Rating by aircraft](images/bar.png)
+![Rating by aircraft](bar.png)
 
 Paired bar charts show the average rating for each aircraft next to its number of reviews. Showing the review count alongside the rating makes it easier to judge how much weight each average deserves.
 
